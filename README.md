@@ -20,5 +20,5 @@ In the Executive committee as Education Director, I delivered ~ 20 workshops on 
 * Intro to PyTorch
 * Intro to Data Version Control (DVC)
 * Debunking Casual Tutor Hiring Myths
-- Delivered information session and panel on how to apply to be an academic tutor to encourage more people of diverse backgrounds to apply
+  * Delivered information session and panel on how to apply to be an academic tutor to encourage more people of diverse backgrounds to apply
 
