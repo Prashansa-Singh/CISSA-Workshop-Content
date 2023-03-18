@@ -22,3 +22,7 @@ In the Executive committee as Education Director, I delivered ~ 20 workshops on 
 * Debunking Casual Tutor Hiring Myths
   * Delivered information session and panel on how to apply to be an academic tutor to encourage more people of diverse backgrounds to apply
 
+
+Recordings & More Resources Here:
+* CISSA Facebook Videos: https://www.facebook.com/cissa.unimelb/videos
+* CISSA Youtube Channel: https://www.youtube.com/@cissa7446/videos
